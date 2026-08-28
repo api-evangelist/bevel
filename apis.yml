@@ -10,6 +10,17 @@ description: >-
   personalized workout plans and daily check-ins. Bevel is a mobile-first consumer
   product with no publicly documented developer API; this profile captures its
   public web, support, roadmap and legal surface. Backed by General Catalyst.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
