@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bevel is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment pipeline.
+Bevel is a consumer digital-health application, built by Finerpoint, Inc., that acts as an AI-powered "connected health coach." It consolidates and interprets health data from wearables (Apple Watch, Oura, Garmin, Amazfit) and lab providers (Labcorp, Quest, LifeLabs) into a single view, scoring daily strain, sleep, recovery, stress/energy, nutrition, cycle, biological age and strength training. Its "Bevel Intelligence" layer delivers conversational, research-backed guidance, personalized workout plans and daily check-ins. Bevel is a mobile-first consumer product with no publicly documented developer API; this profile captures its public web, support, roadmap and legal surface. Backed by General Catalyst.
 
-Backed by: general-catalyst
+**Areas:** Company · Healthcare · Health · Wellness · Wearables · Health Data · Fitness · Artificial Intelligence · Consumer Health
+
+## Bevel on APIs.io
+
+Everything profiled for Bevel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bevel/](https://apis.io/providers/bevel/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bevel Domain Security](https://apis.io/security/bevel/bevel-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bevel.health)
+- [Documentation](https://docs.bevel.health/faq)
+- [Support](https://help.bevel.health)
+- [Changelog](https://docs.bevel.health/release-notes)
+- [Blog](https://www.bevel.health/blog)
+- [Terms of service](https://www.bevel.health/terms-of-service)
+- [Privacy policy](https://www.bevel.health/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 16.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bevel/](https://apis.io/providers/bevel/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bevel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bevel/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
